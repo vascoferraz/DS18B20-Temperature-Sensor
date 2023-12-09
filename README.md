@@ -12,9 +12,9 @@ Also, analog sensors rely on some sort of current or voltage reference. Again, a
 
 For this tutorial you need:
 
-- 1x Arduino Nano 3.0
-- 1x DS18B20 temperature sensor
-- 1x 4.7kOhm resistor
+- Arduino Nano 3.0
+- DS18B20 temperature sensor
+- 4.7kOhm resistor
 - Breadboard and wires
 
 Now you have to replicate the circuit below:
